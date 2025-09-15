@@ -61,6 +61,7 @@ O projeto "Automação do Processo de Estacionamento" visa modernizar as operaç
 ```
 parking-automation/
 ├── docs/                      # Documentação do projeto
+├── README/                      # Documentação do projeto
 ├── backend/                   # Código do servidor
 ├── frontend/                  # Interface web de gestão
 ├── mobile/                    # App mobile (futuro)
