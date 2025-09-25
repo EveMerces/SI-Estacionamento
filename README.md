@@ -261,9 +261,11 @@ Este projeto acadêmico está sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 **Paulo Henrique Pires Cordeiro**  
 Gerente de Projeto | ADS3AN | RA: 2402602
-Subgerente | SI3AN | RA: 2404227
 
-📧 E-mail: [contato@projeto-estacionamento.com](evelynmercesdasilva@gmail.com)  
+**Evelyn Mercês da Silva**  
+Analista de Requisitos | SI3AN | RA: 2404227
+
+📧 E-mail: [evelynmercesdasilva@gmail.com](evelynmercesdasilva@gmail.com)  
 
 ---
 
