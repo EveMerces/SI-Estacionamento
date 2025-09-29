@@ -271,5 +271,5 @@ Analista de Requisitos | SI3AN | RA: 2404227
 
 **🎓 Faculdade Impacta Tecnologia**  
 **📚 Engenharia de Requisitos**  
-**📅 São Paulo - SP | 2024**  
+**📅 São Paulo - SP | 2025**  
 **✅ Projeto Concluído em: 24/09/2025**
